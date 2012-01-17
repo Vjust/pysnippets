@@ -1,0 +1,14 @@
+*** This code is experimental - Use at your own risk ***
+
+The PyShell.py file accompanying Python has a bug .  
+ 
+http://bugs.python.org/issue5233 is supposed to fix this bug - but did not happen in the latest distro I am using.
+
+The file here maybe a kludgy / temporary fix but it seems to work.
+
+You will want to keep a backup copy of the PyShell.py on your system.
+Then use this repo-copy to replace it.
+
+Set an environment var called IDLESTARTUP to point to your imports file.
+
+
