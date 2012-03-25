@@ -11,4 +11,5 @@ Then use this repo-copy to replace it.
 
 Set an environment var called IDLESTARTUP to point to your imports file.
 
+Also documented here : http://toolsmart.blogspot.com/2012/01/idle-restart-bug-in-python-27.html
 
