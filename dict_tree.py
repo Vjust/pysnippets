@@ -1,6 +1,7 @@
 """
 Dict Tree - prints out a nested dictionary in heirarchical form,
-so that nested structures can be examined
+so that nested structures can be examined, especially where the dicts contain
+lots of long text. Only structure is needed.
 
 Usage : dict_tree (dict_name)
 
