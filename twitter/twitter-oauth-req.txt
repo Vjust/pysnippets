@@ -1,0 +1,4 @@
+configparser==3.5.0
+rauth==0.7.2
+requests==2.11.1
+twitter==1.17.1
