@@ -2,6 +2,9 @@
     Purpose : Sample implementation of Gnu PG in python
     Usage : python gpg_sample.py -h
 
+    Thanks to : 
+          SaltyCrane blog : http://www.saltycrane.com/blog/2011/10/python-gnupg-gpg-example/
+
 """
 import gnupg
 import os

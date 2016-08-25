@@ -5,6 +5,11 @@ for re-use (until Twitter expires them)
 
 All credentials are read (and written back to) a config file
 
+Thanks to :
+
+Stack Overflow 
+  http://stackoverflow.com/questions/16078366/reuse-oauth1-authorization-tokens-with-rauth
+
 Note : Make sure config secrets are in gitignore / encrypted
 """
 
